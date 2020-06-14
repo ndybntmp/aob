@@ -1,0 +1,11 @@
+$color: red;
+
+h1 {
+  color: $color;
+  display: flex;
+  background-color: gray;
+  transform: none;
+  transition: all 0.3s;
+  border-radius: 4px;
+  box-shadow: none;
+}
